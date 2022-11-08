@@ -1,1 +1,1 @@
-# Final_Project.-Forecasting-Total-Deaths-due-to-Coronavirus-Disease-
+# Final_Project.-Forecasting-Total-Deaths-due-to-Coronavirus-Disease-![Coronavirus_3D_illustration_by_CDC_1600x900 (1)](https://user-images.githubusercontent.com/111515711/200666768-457168c7-3f4f-4d50-8a77-b367b531e49c.png)
