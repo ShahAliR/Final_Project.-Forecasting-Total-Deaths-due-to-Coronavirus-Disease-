@@ -8,6 +8,7 @@ The data have been retrieved from "Our World in Data" and consists of the necess
 Furthermore, I used a linear regression model to predict the total number of deaths and explore the parameters that play more important roles in this prediction.
 
 Results of the times series model demonstrated in the table below
+![table](https://user-images.githubusercontent.com/111515711/201471438-672fa008-5833-4f0b-8b7f-39e5a472148e.JPG)
 
 
 The result of the linear regression models showed number of new cases, new vaccination number, male smoker number and GDP per Capita index are the most important parameters to predict deaths in the entire worlds.  
