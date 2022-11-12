@@ -1,6 +1,5 @@
-# Final_Project.-Forecasting-Total-Deaths-due-to-Coronavirus-Disease-![Coronavirus_3D_illustration_by_CDC_1600x900 (1)](https://user-the total number of deaths 
-The aims of this project were:
-
+# Predicting the number of Total Deaths due to Coronavirus Disease (COVID-19)
+![Coronavirus_3D_illustration_by_CDC_1600x900 (1)](https://user-images.githubusercontent.com/111515711/201489276-7d803ef7-8cf6-40e7-89c8-798a57189ca8.png)
 1) Predict total number of deaths due to coronavirus during a 60-day period in eight European counties (the Netherlands, France, Germany, United Kingdom, Portugal, Spain Luxembourg and Turkey) based on everyday data from data from previous February 1st of 2019.
 2) Identify the most important predictors of number of total deaths per country in the world among 17 parameters
 
@@ -11,6 +10,7 @@ Furthermore, I used a linear regression model to predict the total number of dea
 Results of the times series models are presented in the table below
 
 ![table](https://user-images.githubusercontent.com/111515711/201471507-4c9caf4d-3104-41fc-925d-683cc6b7466c.JPG)
+
 
 
 The result of the linear regression model showed that the number of new cases, new vaccinations, and male smokers, along with GDP per Capita index are the most important parameters that predict the total number of deaths due to coronavirus per country. 
